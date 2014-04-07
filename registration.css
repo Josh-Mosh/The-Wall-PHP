@@ -1,0 +1,38 @@
+body {
+	background-color: #4F3469;
+	font-family: sans-serif;
+}
+
+#container {
+	width: 400px;
+	margin: 0 auto;
+	background-color: #EDEFF4;
+	padding: 10px;
+	border-radius: 20px;
+	text-align: center;
+}
+
+ a:visited {
+ 	color: blue;
+ }
+
+ .error {
+ 	color: red;
+ 	margin: 0px;
+ }
+
+ form {
+ 	margin-left: 125px;
+ 	width: 150px;
+ 	text-align: left;
+ }
+
+ input {
+ 	display: block;
+ 	margin-bottom: 15px;
+ }
+
+ input[type="submit"] {
+
+ 	font-size: 20px;	
+ }
